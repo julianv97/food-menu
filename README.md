@@ -3,15 +3,15 @@
 Proyecto realizado con React + TailwindCSS
 
 ### Link: https://react-tailwind-food-menu.netlify.app/
-[comment]: #
-## Instalación
 
-git clone https://github.com/julianv97/food-menu.git
+[comment]: ### Instalación
 
-cd food-menu
+[comment]: #git clone https://github.com/julianv97/food-menu.git
 
-npm run start
-{% endcomment %}
+[comment]: #cd food-menu
+
+[comment]: #npm run start
+
 
 
 
