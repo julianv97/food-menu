@@ -38,7 +38,7 @@ function App() {
           <section className="flex flex-col items-center">
             <div className="flex flex-col items-center mb-8">
               <h1 className="capitalize text-4xl font-semibold">our menu</h1>
-              <div className="border-2 border-beige w-full"></div>
+              <div className="bg-beige h-1 w-1/2 mt-2"></div>
             </div>
             <Categories categories={categories} filterItems={filterItems} />
             <Menu items={menuItems} />
